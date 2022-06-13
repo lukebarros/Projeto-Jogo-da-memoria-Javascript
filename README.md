@@ -5,3 +5,5 @@
 - Javascript
 - HTML
 - CSS
+
+Link para jogar: https://lukebarros.github.io/Projeto-Jogo-da-memoria-Javascript/
