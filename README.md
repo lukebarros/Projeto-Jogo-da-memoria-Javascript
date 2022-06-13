@@ -1,4 +1,4 @@
-# Jogo da Memória - Módulo II Bootcamp TQI Fullstack
+# Jogo da Memória - Módulo III Bootcamp TQI Fullstack
 ## Tema 'Times de Formula 1'
 
 ### Feito usando:
